@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\c# kodları\rock-paper-scıssors\rock-paper-scıssors\bin\Debug\rock-paper-scıssors.exe.config
+C:\Users\Pc\Desktop\c# kodları\rock-paper-scıssors\rock-paper-scıssors\bin\Debug\rock-paper-scıssors.exe
+C:\Users\Pc\Desktop\c# kodları\rock-paper-scıssors\rock-paper-scıssors\bin\Debug\rock-paper-scıssors.pdb
+C:\Users\Pc\Desktop\c# kodları\rock-paper-scıssors\rock-paper-scıssors\obj\Debug\rock-paper-scıssors.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\c# kodları\rock-paper-scıssors\rock-paper-scıssors\obj\Debug\rock-paper-scıssors.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\c# kodları\rock-paper-scıssors\rock-paper-scıssors\obj\Debug\rock-paper-scıssors.exe
+C:\Users\Pc\Desktop\c# kodları\rock-paper-scıssors\rock-paper-scıssors\obj\Debug\rock-paper-scıssors.pdb
